@@ -1,4 +1,5 @@
 Welcome to my interactive blog :D 
+You'll need java setup on your machine. 
 
 Once you've downloaded the files navigate to the directory and do:
 
